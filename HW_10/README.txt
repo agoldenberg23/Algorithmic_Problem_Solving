@@ -1,5 +1,5 @@
 Assignments and my answers for problem set 10.
-Problem A: 147 - Dollars, Solved
+Problem A: 147 - Dollars, Solved (in C++)
 Problem B: 10261 - Ferry Loading, Attempted
 Problem C: 714 - Copying Books, Solved
 Problem D: 787 - Maximum Sub-sequence Product, Solved
